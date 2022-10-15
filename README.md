@@ -1,5 +1,5 @@
 - I'm a 25 year old student from Italy 
-- Currently enrolled in the "Artificial and Robotics" Master @ Sapienza University of Rome
+- Currently enrolled in the "Artificial Intelligence and Robotics" Master @ Sapienza University of Rome
 - Did my Bachelor in Computer Science @ Universita della Calabria (Cosenza)
 - I program mainly in Java, Matlab and a bit of C++ and Python
 - I'm professionally interested in Artificial Intelligence, Machine Learning, Robotics and so on
