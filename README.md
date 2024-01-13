@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Flavio Maiorana</h1>
 <h3 align="center">a grad student in AI and Robotics at Sapienza University of Rome </h3>
 
-- Mainly interested in Robot Learning and Control
-- Playing piano in my free time
+- 🤖 Mainly interested in Robot Learning and Control
+- 🎹 Playing piano in my free time
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
